@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I like photography 📷 and cooking🧁
 
 
-### ![Qu0ka's GitHub stats](https://github-readme-stats.vercel.app/api?username=qu0ka&show_icons=true&theme=radical)
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qu0ka&langs_count=5&hide=Hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### ![Qu0ka's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugopallard&show_icons=true&theme=radical)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugopallard&langs_count=5&hide=Hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
