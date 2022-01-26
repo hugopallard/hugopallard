@@ -36,7 +36,7 @@ I am looking for **a first technical internship** in software engineering | Dura
 
 ### Send me a message !
 
-- I am open for opportunities, do not hesitate to contact me !
+I am open for opportunities, do not hesitate to contact me !
 
 <p>
      <a href="https://www.instagram.com/hugo_pal/">
