@@ -62,7 +62,7 @@ I am open for opportunities, do not hesitate to contact me !
      />
      <img 
      align="right"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugopallard&langs_count=3"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugopallard&langs_count=4"
      />
 </p>
 
