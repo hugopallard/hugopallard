@@ -1,4 +1,5 @@
-<img src="/GitHubBanner.png" alt="banner" />
+
+![GitHubBanner](https://user-images.githubusercontent.com/88373401/197506919-7efa1ccc-390e-4e4e-ba49-1867cb61bce5.png)
 
 ---
 
