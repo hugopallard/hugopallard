@@ -28,7 +28,7 @@ I use all the technologies below and always open to learn more !
 I am a student at <a href="https://www.epf.fr/en">EPF School of Engineering</a>.
 </p>
 <p>
-I am currently an intern at <a href="https://www.3ds.com/fr/">Dassault Systèmes</a> as a Software Engineer
+I was an intern at <a href="https://www.3ds.com/fr/">Dassault Systèmes</a> as a Software Engineer working with Web Technologies (React / Next.Js / TypeScript / TailwindCSS)
 </p>
 
 <p>
@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/88373401/197504504-cdef055b-6fa7-4447-
 
 ### What am I looking for ?
 
-I am **not** looking for anything right now, but if you have an opportunity in software engineering starting in 2024 feel free to contact me ! (Duration: ~6 months)
+I am looking for an **internship** in Software Engineering starting in 2024 ! (Duration: ~6 months). This internship should conclude my studies.
 
 ---
 
