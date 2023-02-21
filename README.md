@@ -28,7 +28,7 @@ I use all the technologies below and always open to learn more !
 I am a student at <a href="https://www.epf.fr/en">EPF School of Engineering</a>.
 </p>
 <p>
-I was an intern at <a href="https://www.3ds.com/fr/">Dassault Systèmes</a> as a Software Engineer working with Web Technologies (React / Next.Js / TypeScript / TailwindCSS)
+I was an intern at <a href="https://www.3ds.com/fr/">Dassault Systèmes</a> as a Software Engineer and I worked with web technologies like React.Js, Next.Js, TypeScript and TailwindCSS among others
 </p>
 
 <p>
