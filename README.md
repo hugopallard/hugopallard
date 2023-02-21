@@ -7,7 +7,6 @@
 
 ### What do I do ?
 
-I use all the technologies below and always open to learn more !
 <p>
      <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
      <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
